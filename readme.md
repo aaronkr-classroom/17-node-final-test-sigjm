@@ -21,7 +21,7 @@ Add CRUD Methods to the Express Server.<br>Express 서버에 CRUD 메소드 추�
 
 This is an example of a _simple_ forum website. But there's one problem. The `discussionsController` is missing its CRUD methods. You need to add them.<br>이것은 _간단한_ 포럼 웹사이트의 예제입니다. 하지만 한가지 문제가 있습니다. `discussionsController`에 CRUD 메소드가 없습니다. 이것을 추가해야 합니다.
 
-There are two files to change: `app.TODO.js` and `discussionsController.TODO.js`.<br>변경할 파일은 두개입니다: `app.TODO.js`와 `discussionsController.TODO.js` 입니다.
+There are two files to change: `app.js` and `discussionsController.js`.<br>변경할 파일은 두개입니다: `app.js`와 `discussionsController.js` 입니다.
 
 ### app.js
 
